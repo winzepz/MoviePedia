@@ -13,6 +13,7 @@ Clone the repository to your local machine.
 Open the project folder.
 Open the index.html file in a web browser.
 # Usage
+Visit https://winzepz.github.io/Movie-App-JS/ or
 Launch the MoviePedia web application by opening the index.html file.
 In the search box, enter the name of a movie you want to search for.
 Click the "Search" button or press Enter.
