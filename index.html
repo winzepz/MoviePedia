@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>History of Movie</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>MoviePedia</h1>
+  <div class="search-box" id="search-form">
+    <input type="text" id="searchInput" placeholder="Search movies...">
+    <button id="button" onclick="search()">Search</button>
+  </div>
+  
+  <div class="movie-details">
+    <div class="movie-poster">
+      <img id="poster" src="" alt="Movie Poster">
+    </div>
+    <div class="movie-info">
+      <h2><span id="title"></span></h2>
+      <p><span id="director"></span></p>
+      <p><span id="rating"></span></p>
+      <p><span id="year"></span></p>
+      <p><span id="type"></span></p>
+    </div>
+  </div>
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2023 MoviePedia. All rights reserved.</p>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
