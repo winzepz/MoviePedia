@@ -8,7 +8,7 @@ MoviePedia is a web application that allows users to search for movie informatio
 3. JavaScript**
 # Getting Started
 To run the MoviePedia web application, follow these steps:
-Visit: https://winzepz.github.io/Movie-App-JS/
+Visit: https://winzepz.github.io/MoviePedia/
 or
 
 Clone the repository to your local machine.
